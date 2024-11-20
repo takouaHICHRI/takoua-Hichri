@@ -22,21 +22,20 @@ I am completely passionate about frontend backend development .
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/takoua_hichrii/profilecard/?igsh=MXJsZWx5NG12M2FpZA== )
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:takouahichri67@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-TakouaHichri-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
+[![Linkedin Badge](https://img.shields.io/badge/-TakouaHichri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
+[![Mail Badge](https://img.shields.io/badge/-@TakouaHichri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/takoua_hichrii/profilecard/?igsh=MXJsZWx5NG12M2FpZA== )
+[![Mail Badge](https://img.shields.io/badge/-TakouaHichri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:takouahichri67@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-24-blue" />
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=TakouaHICHRI)
+<img src="https://img.shields.io/badge/Age-22-blue" />
 
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
 
 - 🔭 I’m currently student at @esprit
@@ -59,12 +58,7 @@ I am completely passionate about frontend backend development .
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -86,7 +80,7 @@ I am completely passionate about frontend backend development .
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
+
 
 Last Edited on: 03/09/2024
 <details> 
@@ -97,20 +91,15 @@ Last Edited on: 03/09/2024
             <p align="center">
       </p>
         <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/takouaHICHRI/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takouaHICHRI&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takouaHICHRI&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
     <br>
 
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-
-<br>
 </details>
 
 
