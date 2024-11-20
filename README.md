@@ -1,16 +1,16 @@
 # takoua-Hichri
-<h1 align="center"><b>Hey , I'm Mohamed Aziz Ben Ismail </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey , I'm Takoua Hichri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Aziz+BenIsmail..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Takoua+Hichri&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <!--
 <p align="center">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/AzizBenIsmail) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Takoua+Hichri!;Computer+Science+Student;Full+Stack+Web+DeveloperDS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)]
   </p> -->
   
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="assets/images/"  width="500px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
@@ -24,8 +24,8 @@ I am completely passionate about frontend backend development .
 
 [![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
 [![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/takoua_hichrii/profilecard/?igsh=MXJsZWx5NG12M2FpZA== )
+[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:takouahichri67@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
