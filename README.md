@@ -73,13 +73,13 @@ AR (natif) · FR B2 · EN B2
 
 ### 01 — BI bancaire & risque d'impayé
 
-## [`attijari-bi-risque`](https://github.com/<pseudo>/attijari-bi-risque)
+## [`attijari-bi-risque`](https://github.com/takouaHICHRI/WSL-ml_project)
 
 Data Warehouse en Star Schema (6 dimensions, 3 faits) sous PostgreSQL, dashboards Power BI, modèle ML de prédiction du risque d'impayé (précision de 81 %) et application web Flask avec chatbot. Données synthétiques uniquement.
 
 `PostgreSQL` `Power BI` `Machine Learning` `Flask`
 
-<a href="https://github.com/<pseudo>/attijari-bi-risque">
+<a href="https://github.com/takouaHICHRI/WSL-ml_project">
 <img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet bancaire" />
 </a>
 
