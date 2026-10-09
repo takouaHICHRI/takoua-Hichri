@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://github.com/<pseudo>">
+<a href="https://github.com/<takoua.HICHRI>">
 <img src="https://img.shields.io/badge/GITHUB-<PSEUDO>-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/takoua-hichri">
