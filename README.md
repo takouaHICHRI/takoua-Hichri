@@ -88,13 +88,13 @@ Data Warehouse en Star Schema (6 dimensions, 3 faits) sous PostgreSQL, dashboard
 
 ### 02 — Pipeline BI & ML
 
-## [`sougui-bi-ml`](https://github.com/<pseudo>/sougui-bi-ml)
+## [`sougui-bi-ml`](https://github.com/chahnezelbez/Esprit-PABI-4BI5-2026-Ecommerce))
 
 Projet BI complet : ETL, orchestration Airflow, audit qualité des données, suivi des expériences MLflow, API REST du modèle (locale et Dockerisée), web app d'inférence et dashboards Power BI.
 
 `Airflow` `n8n` `MLflow` `Docker` `Power BI`
 
-<a href="https://github.com/<pseudo>/sougui-bi-ml">
+<a href="https://github.com//chahnezelbez/Esprit-PABI-4BI5-2026-Ecommerce/sougui-bi-ml">
 <img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir SOUGUI" />
 </a>
 
