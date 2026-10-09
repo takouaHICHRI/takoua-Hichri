@@ -1,82 +1,51 @@
-# takoua-Hichri
-<h1 align="center"><b>Hey , I'm Takoua Hichri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Takoua+Hichri&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+# Salut, moi c'est Takoua 👋
 
-<!--
-<p align="center">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Takoua+Hichri!;Computer+Science+Student;Full+Stack+Web+DeveloperDS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)]
-  </p> -->
-  
-<!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/"  width="500px" alt="hi" >
+**Étudiante ingénieure en 4ᵉ année à ESPRIT**, spécialisée en **ERP & Business Intelligence**.
+Je construis des pipelines de données, des dashboards BI et des solutions ML de bout en bout (ETL → modèle → API → visualisation).
 
-<!--  About me -->
-<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
-**About me**
+🎯 À la recherche d'un **stage d'été** en Data / BI / ML Engineering
+📍 Tunisie · 🗣️ Arabe (natif) · Français (B2) · Anglais (B2)
 
-I'm Takoua Hichri a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old .
-I am completely passionate about frontend backend development .
+## 🛠️ Compétences
 
-<!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+**Data & BI** : Power BI · ETL · Data Warehouse · OLAP · SQL · PL/SQL
+**ML & MLOps** : Machine Learning · MLflow · API REST (déploiement de modèles)
+**Orchestration** : Apache Airflow · n8n · Docker
+**Développement** : Java · Spring Boot · Angular · Symfony · JavaScript · C / C++ · .NET · FlutterFlow · Firebase
+**Outils** : Postman · Swagger · Git · VS Code · Eclipse · Oracle APEX · Trello · Scrum
 
-[![Linkedin Badge](https://img.shields.io/badge/-TakouaHichri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takoua-hichri-7bb78622b/) 
-[![Mail Badge](https://img.shields.io/badge/-@TakouaHichri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/takoua_hichrii/profilecard/?igsh=MXJsZWx5NG12M2FpZA== )
-[![Mail Badge](https://img.shields.io/badge/-TakouaHichri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:takouahichri67@gmail.com)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
 
-<!--  /GitHub followers /visitors/Age  -->
-![GitHub followers](https://img.shields.io/github/followers/takouaHICHRI?style=social)
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=takouaHICHRI.takouaHichri)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=TakouaHICHRI)
-<img src="https://img.shields.io/badge/Age-22-blue" />
+## 🚀 Projets phares
 
-<!-- Ligne  -->
-<!-- TODO: Add last video link 
+| Projet | Description | Stack |
+|---|---|---|
+| [**SOUGUI – Projet BI & ML**](lien-repo) | Pipeline complet : ETL, orchestration, audit BI, MLflow, API REST de déploiement du modèle, web app d'inférence et dashboards Power BI | Airflow · n8n · MLflow · Docker · Power BI |
+| [**Gestion de clinique**](lien-repo) | Application web responsive : rendez-vous, patients, consultations | Symfony · MySQL · HTML/CSS/JS |
+| [**Plateforme RH & formations**](lien-repo) | Modules de gestion des compétences et formations (stage PFE) | Angular · Spring Boot |
+| [**Interfaces de paramétrage**](lien-repo) | Formulaires de configuration de règles de trafication (stage) | Oracle APEX · SQL/PL-SQL |
 
-- 🔭 I’m currently student at @esprit
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: Takouahichri67@gmail.com.
-- 😄 Pronouns: tiko.
--->
+## 💼 Expériences
+- **IDEE** (juil. 2025) : interfaces de paramétrage sous Oracle APEX
+- **ARABSOFT** (fév.–juin 2024) : stage PFE, plateforme de gestion du personnel et des compétences
+- **Ministère de l'Environnement** (juin 2023) : virtualisation de machines
+- **Ben Yaghlane Shops** (juil. 2022) : administration GLPI et monitoring Zabbix
 
+## 🎓 Formation & certifications
+- Cycle ingénieur, ESPRIT (2024 – présent), ERP & BI
+- Licence en Informatique, Faculté des Sciences de Gafsa (2021–2024)
+- Microsoft Azure Fundamentals · Azure Data Fundamentals · Azure AI Fundamentals · Security, Compliance and Identity Fundamentals · Data Science Foundations · Java Programming
 
-<!-- Skills  -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+## 📫 Me contacter
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takoua-hichri)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:takoua.HICHRI@esprit.tn)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
-  <div>
-  <samp>
-      <br/>
-            <p align="center">
-      </p>
-        <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-    <br>
-
-</details>
-
+![Stats](https://github-readme-stats.vercel.app/api?username=<pseudo>&show_icons=true&hide_border=true)
