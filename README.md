@@ -1,6 +1,6 @@
-# Salut, moi c'est Takoua 👋
+# Salut, c'est Takoua 👋
 
-**Étudiante ingénieure en 4ᵉ année à ESPRIT**, spécialisée en **ERP & Business Intelligence**.
+**Étudiante ingénieure en 5ᵉ année à ESPRIT**, spécialisée en **ERP & Business Intelligence**.
 Je construis des pipelines de données, des dashboards BI et des solutions ML de bout en bout (ETL → modèle → API → visualisation).
 
 🎯 À la recherche d'un **stage d'été** en Data / BI / ML Engineering
