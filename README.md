@@ -7,7 +7,7 @@
 <br />
 
 <a href="https://github.com/takouaHICHRI">
-<img src="https://img.shields.io/badge/GITHUB-<PSEUDO>-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-<takouaHICHRI>-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/takoua-hichri">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
