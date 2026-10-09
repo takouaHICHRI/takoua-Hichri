@@ -6,8 +6,8 @@
 
 <br />
 
-<a href="https://github.com/takouaHICHRI ">
-<img src="https://img.shields.io/badge/GITHUB-<takoua.HICHRI>-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/<pseudo>">
+<img src="https://img.shields.io/badge/GITHUB-<PSEUDO>-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/takoua-hichri">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,11 +26,11 @@
 
 # Je transforme la donnée en décisions, de bout en bout.
 
-Je suis **Takoua Hichri**, étudiante ingénieure en 4ᵉ année à **ESPRIT**, spécialisée en **ERP & Business Intelligence**.
+Je suis **Takoua Hichri**, étudiante ingénieure en 5ᵉ année à **ESPRIT**, spécialisée en **ERP & Business Intelligence**.
 
-Je construis des pipelines ETL, des dashboards BI et des solutions ML déployées via API, de l'ingestion des données jusqu'à la visualisation.
+Je conçois des Data Warehouses, des pipelines ETL, des dashboards BI et des solutions ML déployées via API, de l'ingestion des données jusqu'à la visualisation.
 
-🎯 À la recherche d'un **stage d'été** en Data / BI / ML Engineering.
+🎯 À la recherche d'un **stage PFE** en Data / BI / ML Engineering.
 
 </td>
 <td width="35%" valign="top">
@@ -46,7 +46,7 @@ FOCUS
 BI · Data · MLOps
 
 MODE ACTUEL
-Apprendre & construire
+Recherche de stage PFE
 
 LIEU
 Tunisie
@@ -71,7 +71,22 @@ AR (natif) · FR B2 · EN B2
 <tr>
 <td width="50%" valign="top">
 
-### 01 — Pipeline BI & ML
+### 01 — BI bancaire & risque d'impayé
+
+## [`attijari-bi-risque`](https://github.com/<pseudo>/attijari-bi-risque)
+
+Data Warehouse en Star Schema (6 dimensions, 3 faits) sous PostgreSQL, dashboards Power BI, modèle ML de prédiction du risque d'impayé (précision de 81 %) et application web Flask avec chatbot. Données synthétiques uniquement.
+
+`PostgreSQL` `Power BI` `Machine Learning` `Flask`
+
+<a href="https://github.com/<pseudo>/attijari-bi-risque">
+<img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet bancaire" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — Pipeline BI & ML
 
 ## [`sougui-bi-ml`](https://github.com/<pseudo>/sougui-bi-ml)
 
@@ -84,9 +99,12 @@ Projet BI complet : ETL, orchestration Airflow, audit qualité des données, sui
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-### 02 — Application web santé
+### 03 — Application web santé
 
 ## [`clinique-symfony`](https://github.com/<pseudo>/clinique-symfony)
 
@@ -99,36 +117,18 @@ Application web responsive pour gérer les rendez-vous, les patients et les cons
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-### 03 — Gestion RH & formations
+### 04 — Gestion RH & formations
 
 ## [`plateforme-competences`](https://github.com/<pseudo>/plateforme-competences)
 
-Modules de gestion des compétences et des formations pour une plateforme de gestion du personnel (version générique, sans données confidentielles).
+Modules de gestion des compétences et des formations pour une plateforme de gestion du personnel (version démo, sans données confidentielles).
 
 `Angular` `Spring Boot` `Postman`
 
 <a href="https://github.com/<pseudo>/plateforme-competences">
 <img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir la plateforme" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 04 — Interfaces de configuration
-
-## [`apex-parametrage`](https://github.com/<pseudo>/apex-parametrage)
-
-Formulaires et pages de paramétrage de règles métier avec manipulation de données en SQL / PL-SQL (version démo uniquement).
-
-`Oracle APEX` `SQL` `PL/SQL`
-
-<a href="https://github.com/<pseudo>/apex-parametrage">
-<img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir APEX" />
 </a>
 
 </td>
@@ -146,10 +146,10 @@ Formulaires et pages de paramétrage de règles métier avec manipulation de don
 ### DATA & BI
 
 Power BI  
-ETL  
-Data Warehouse  
-OLAP  
+Data Warehouse (Star Schema)  
+ETL · OLAP  
 SQL · PL/SQL  
+PostgreSQL · MySQL  
 Machine Learning
 
 </td>
@@ -161,7 +161,7 @@ Apache Airflow
 n8n  
 MLflow  
 Docker  
-API REST  
+API REST · Flask  
 Swagger
 
 </td>
@@ -184,11 +184,12 @@ Git · Postman
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
 <img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
 <img src="https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -206,8 +207,9 @@ Git · Postman
 
 ### Expériences
 
+- **Attijari Bank** (juil.–août 2026) : Data Warehouse, dashboards Power BI et modèle ML de risque d'impayé
 - **IDEE** (juil. 2025) : interfaces de paramétrage sous Oracle APEX
-- **ARABSOFT** (fév.–juin 2024) : stage PFE, plateforme de gestion du personnel et des compétences
+- **ARABSOFT** (fév.–juin 2024) : plateforme de gestion du personnel et des compétences
 - **Ministère de l'Environnement** (juin 2023) : virtualisation de machines
 - **Ben Yaghlane Shops** (juil. 2022) : administration GLPI et monitoring Zabbix
 
@@ -239,8 +241,8 @@ Git · Postman
 
 ### Ce qui compte pour moi
 
+- Des modèles de données solides (Star Schema)
 - Des pipelines fiables et automatisés
-- Des données de qualité (audit BI)
 - Des dashboards clairs et utiles
 - Des modèles ML réellement déployés
 - Apprendre en construisant
@@ -253,7 +255,7 @@ Git · Postman
 - MLOps de bout en bout
 - Orchestration avec Airflow et n8n
 - Conteneurisation avec Docker
-- Data Warehouse et modélisation OLAP
+- Modélisation OLAP et Data Warehouse
 - Cloud et IA avec Azure
 
 </td>
@@ -268,12 +270,12 @@ Git · Postman
 takoua = {
     "role": "Étudiante ingénieure ERP & BI",
     "ecole": "ESPRIT",
-    "cherche": "Stage d'été Data / BI / ML",
+    "cherche": "Stage PFE Data / BI / ML",
     "interets": [
+        "data warehouse",
         "pipelines de données",
         "MLOps",
         "dashboards BI",
-        "automatisation",
     ],
     "approche": "ingérer, transformer, déployer, mesurer",
 }
