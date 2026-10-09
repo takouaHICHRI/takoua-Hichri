@@ -112,7 +112,7 @@ Application web responsive pour gérer les rendez-vous, les patients et les cons
 
 `Symfony` `MySQL` `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/<pseudo>/clinique-symfony">
+<a href="https://github.com/<[pseudo](https://github.com/aymenZargouni/PI-SanareNovo)>/clinique-symfony">
 <img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir la clinique" />
 </a>
 
