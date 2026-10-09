@@ -106,7 +106,7 @@ Projet BI complet : ETL, orchestration Airflow, audit qualité des données, sui
 
 ### 03 — Application web santé
 
-## [`clinique-symfony`]https://github.com/aymenZargouni/PI-SanareNovo)
+## [`clinique-symfony`](https://github.com/aymenZargouni/PI-SanareNovo)
 
 Application web responsive pour gérer les rendez-vous, les patients et les consultations d'une clinique.
 
