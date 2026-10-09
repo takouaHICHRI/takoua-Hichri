@@ -94,7 +94,7 @@ Projet BI complet : ETL, orchestration Airflow, audit qualité des données, sui
 
 `Airflow` `n8n` `MLflow` `Docker` `Power BI`
 
-<a href="https://github.com//chahnezelbez/Esprit-PABI-4BI5-2026-Ecommerce/sougui-bi-ml">
+<a href="https://github.com//chahnezelbez/Esprit-PABI-4BI5-2026-Ecommerce">
 <img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir SOUGUI" />
 </a>
 
@@ -112,7 +112,7 @@ Application web responsive pour gérer les rendez-vous, les patients et les cons
 
 `Symfony` `MySQL` `HTML` `CSS` `JavaScript`
 
-<a href="[https://github.com/aymenZargouni/PI-SanareNovo]
+<a href="https://github.com/aymenZargouni/PI-SanareNovo">
 <img src="https://img.shields.io/badge/VOIR_LE_PROJET-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Voir la clinique" />
 </a>
 
